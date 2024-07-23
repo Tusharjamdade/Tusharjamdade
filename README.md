@@ -18,8 +18,6 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharjamdade/) | [Twitter](https://x.com/tusharnjamdade)
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I enjoy experimenting with new technologies and building practical applications in my spare time.
 
 ---
