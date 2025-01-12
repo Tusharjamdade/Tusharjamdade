@@ -14,9 +14,17 @@
         <li><strong>ML Tools:</strong> NumPy, pandas, scikit-learn, TensorFlow</li>
       </ul>
       <p>📫 How to reach me: <a href="https://www.linkedin.com/in/tusharjamdade/">LinkedIn</a> | <a href="https://x.com/tusharnjamdade">Twitter</a></p>
-      <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharjamdade&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats">
-      </p>
+     <div align="center">
+  <!-- Top Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharjamdade&layout=compact&theme=shadow_blue&hide_border=false" alt="Top Languages">
+  </p>
+
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tusharjamdade&style=flat-square&color=blue" alt="Profile Views">
+  </p>
+</div>
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="GIF">
